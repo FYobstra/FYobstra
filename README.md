@@ -19,4 +19,9 @@ Me apasiona crear interfaces de usuario visualmente impactantes e intuitivas que
 
 [![](https://visitcount.itsvg.in/api?id=FYobstra&label=Profile%20Views&color=3&pretty=false)](https://visitcount.itsvg.in)
 
+
+---
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fyobstra&show_icons=true&locale=en" alt="fyobstra" /></p>
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
